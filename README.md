@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/soulreaper02/MEAN-SKELETON?branch=master)](https://travis-ci.org/soulreaper02/MEAN-SKELETON)
+[![Build Status](https://travis-ci.org/soulreaper02/MEAN-SKELETON.svg?branch=master)](https://travis-ci.org/soulreaper02/MEAN-SKELETON)
 
 # Introduction
 A minimal `MEAN` stack skeleton with all required configurations.
